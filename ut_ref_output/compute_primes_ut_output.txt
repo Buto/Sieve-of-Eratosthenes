@@ -1,0 +1,5 @@
+ut00: case where limit is a prime number........................ok
+ut01: boundry checking: case where limit is a prime number+1....ok
+ut02: boundry checking: case where limit is a prime number-1....ok
+
+UNIT TEST passed!
